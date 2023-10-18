@@ -1,0 +1,5 @@
+.help		Show the list of every commands
+.clear		Clear the terminal
+.coins		Show a link to a table with every coins available
+.git		Show a link to the git repository of the app
+.exit		Shut down the app

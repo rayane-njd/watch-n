@@ -1,0 +1,2 @@
+Welcome to Watch'n v0.0.1
+Type ".help" for more information
