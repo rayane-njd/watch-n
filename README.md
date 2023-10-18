@@ -18,7 +18,6 @@
 - [Technical informations](#technical-informations)
   - [Programming language](#programming-language)
   - [API](#api)
-- [Future](#future)
 
 
 <!-- Overview -->
